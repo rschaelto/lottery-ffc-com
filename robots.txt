@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rschaelto.github.io/lottery-ffc-com/sitemap.xml
